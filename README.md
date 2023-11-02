@@ -5,7 +5,6 @@
 
 # What is the GenderMag Recorder's Assistant?
 
-TEST
 The GenderMag Recorder’s Assistant is a Chrome Extension tool that you can use
 from Google Chrome or Microsoft Edge to identify gender-inclusiveness
 issues in software. [GenderMag](http://gendermag.org/) is a process you can use
@@ -54,7 +53,7 @@ GenderMag Recorders Assistant is a semi-automated tool that helps users walk thr
 
 # How to install the GenderMag Recorder's Assistant:</a>
 
-## Method 1: Download from GitHub:
+## Method 1: Download from GitHub (REQUIRES CHROME):
 
 1. Create a fork of the project to your GitHub account.
    For information on how to do this, please see
@@ -70,18 +69,16 @@ GenderMag Recorders Assistant is a semi-automated tool that helps users walk thr
 - After clicking on the intitial downloadeded file, navigate backwards one step in the Files app to reach the zipped folder.
 
 4. Open Chrome and click on the icon (⋮) in the top right corner.
-5. Click on “More tools” -> “Extensions”.
+5. Click on “More tools” -> “Extensions” or Click on “Extensions” -> “Manage Extensions” for windows
 6. Enable developer mode by checking the “Developer Mode” slider in the top right.
-7. Click on “Load unpacked” under the search bar.
-8. Select the extracted _zip file_ and click "ok".
+7. Click on “Load unpacked” under the search bar on the left.
+8. Select the extracted _zip file_ and click "ok". Make sure to click on the file once to go one file space down, you will want to submit the file ~\GenderMagRecordersAssistant-master\GenderMagRecordersAssistant-master
 
 - Don't select the standard file folder (only the zip file will upload).
 
 9. Click on “Update” under the search bar.
 10. The new extension called ”GenderMag Recorder's Assistant” should be in the
     top left corner of the extensions.
-
-Tutorial for download on Mac: https://youtu.be/ji1sMHljlLQ
 
 ## Method 2: Install from Chrome Web Store
 
